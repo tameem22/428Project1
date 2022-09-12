@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chicago Bean
+* source:	https://sketchfab.com/3d-models/chicago-bean-f7869191be7940aab889e1d81cd514d1
+* author:	John Helman (https://sketchfab.com/JHelman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chicago Bean" (https://sketchfab.com/3d-models/chicago-bean-f7869191be7940aab889e1d81cd514d1) by John Helman (https://sketchfab.com/JHelman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

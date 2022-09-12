@@ -1,0 +1,11 @@
+Model Information:
+* title:	Week_2_Eric_Jakabcsin
+* source:	https://sketchfab.com/3d-models/week-2-eric-jakabcsin-2e546872dbfc4521a85f39ffe6d6cc2c
+* author:	ejakabcs (https://sketchfab.com/ejakabcs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Week_2_Eric_Jakabcsin" (https://sketchfab.com/3d-models/week-2-eric-jakabcsin-2e546872dbfc4521a85f39ffe6d6cc2c) by ejakabcs (https://sketchfab.com/ejakabcs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
