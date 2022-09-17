@@ -18,3 +18,5 @@ Casual Male model by manoeldarochadeoliveira:https://www.cgtrader.com/free-3d-mo
 Tree models by nik-y: https://www.cgtrader.com/free-3d-models/plant/other/forest-assets-low-poly-including-bonus-animal
 
 Tiger model by tssrkt: https://www.cgtrader.com/free-3d-models/animals/mammal/lowpoly-tigers
+
+Rainforest Ambience by GlorySunz: https://soundbible.com/1818-Rainforest-Ambience.html
