@@ -11,3 +11,5 @@ Shiba model by zixisun02: https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7
 Millennium Park logo from the official Chicago website: https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html
 
 Urban Traffic sound by Mike Koenig: https://soundbible.com/641-Urban-Traffic.html
+
+Bear model by Nyilonelycompany: https://sketchfab.com/3d-models/bear-ce0d5eb86cf5459bb6bd20244cb44b27
