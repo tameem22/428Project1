@@ -12,4 +12,9 @@ Millennium Park logo from the official Chicago website: https://www.chicago.gov/
 
 Urban Traffic sound by Mike Koenig: https://soundbible.com/641-Urban-Traffic.html
 
-Bear model by Nyilonelycompany: https://sketchfab.com/3d-models/bear-ce0d5eb86cf5459bb6bd20244cb44b27
+
+Casual Male model by manoeldarochadeoliveira:https://www.cgtrader.com/free-3d-models/character/man/casual-male-a791f55a-a87b-4c9b-b731-73214ee78336
+
+Tree models by nik-y: https://www.cgtrader.com/free-3d-models/plant/other/forest-assets-low-poly-including-bonus-animal
+
+Tiger model by tssrkt: https://www.cgtrader.com/free-3d-models/animals/mammal/lowpoly-tigers
