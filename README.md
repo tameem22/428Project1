@@ -20,3 +20,5 @@ Tree models by nik-y: https://www.cgtrader.com/free-3d-models/plant/other/forest
 Tiger model by tssrkt: https://www.cgtrader.com/free-3d-models/animals/mammal/lowpoly-tigers
 
 Rainforest Ambience by GlorySunz: https://soundbible.com/1818-Rainforest-Ambience.html
+
+Brookfield Zoo Map image taken from official Brookfield Zoo website: https://www.czs.org/Brookfield-ZOO/Zoo-Animals/Big-Cats.aspx
